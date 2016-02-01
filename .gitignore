@@ -1,9 +1,10 @@
 hgtools-*
 js.underscore.egg-info/
 dist/
-*.pyc
+*.py[co]
 .eggs/
 bin/
 parts/
 .installed.cfg
 develop-eggs/
+.idea/
